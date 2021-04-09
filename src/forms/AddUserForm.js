@@ -34,7 +34,7 @@ const AddUserForm = (props) => {
         value={user.username}
         onChange={handleInputChange}
       />
-      <button>Add new user</button>
+      <button>Enregistrer</button>
     </form>
   )
 }
